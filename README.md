@@ -7,7 +7,7 @@ august.29 2021
 pdsnd_github
 
 ### Description
-Using the bikeshare.py file in git
+Using the bikeshare file in git
 
 ### Files used
 bikeshare.py
